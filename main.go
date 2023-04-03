@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/your-username/your-project/server"
+	"github.com/altanbgn/arctis-finance/server"
 )
 
 func main() {

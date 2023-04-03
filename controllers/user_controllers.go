@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/your-username/your-project/models"
+	"github.com/altanbgn/arctis-finance/models"
 	"github.com/gorilla/mux"
 )
 

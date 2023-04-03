@@ -1,9 +1,10 @@
 package server
 
 import (
+	"log"
 	"net/http"
 
-	"github.com/your-username/your-project/controllers"
+	"github.com/altanbgn/arctis-finance/controllers"
 )
 
 func Start() error {
